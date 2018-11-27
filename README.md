@@ -1,5 +1,5 @@
-# SendSMSDemo
-Android发送短信的两种方式
+#### My Blog：[zhangmiao.cc](https://zhangmiao.cc/2018/11/27/Android%E5%8F%91%E9%80%81%E7%9F%AD%E4%BF%A1%E7%9A%84%E4%B8%A4%E7%A7%8D%E6%96%B9%E5%BC%8F/)
+
 #### SMS涉及的主要类SmsManager
 
 实现SMS主要用到SmsManager类，该类继承自java.lang.Object类，下面我们介绍一下该类的主要成员。
